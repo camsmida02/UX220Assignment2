@@ -1,6 +1,6 @@
 # Assignment 2
 
-[![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow.svg)](https:///pr.new/camsmida02/UX220Assignment1
+[![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow.svg)](https:///pr.new/camsmida02/UX220Assignment2
 ) 
 ## Quick Start
 
