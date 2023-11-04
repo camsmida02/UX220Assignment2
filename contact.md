@@ -1,1 +1,1 @@
-Contact information here
+Email: smid3060@mylaurier.ca

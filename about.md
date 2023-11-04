@@ -1,1 +1,1 @@
-About page
+My name is Camden Smida and in this assignment I will be discussing my personal experiences ranging from my first job all the way to bad school experiences.
